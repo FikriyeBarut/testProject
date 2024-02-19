@@ -1,0 +1,8 @@
+<suite name = "BaykarTech_Project" >
+    <parameter name ="browser" value ="Edge" />
+    <test name="BaykarTech" >
+        <classes>
+            <class name ="testRunners.runner" />
+        </classes>
+    </test>
+</suite>
